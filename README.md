@@ -46,7 +46,7 @@ I worked on:
 ├── Internship Task 6.ipynb             # House Price Regression
 ├── Advance Internship Task 1/          # BERT Headline Classifier
 ├── Advance Internship Task 4/          # LangGraph Prompt Refiner
-├── Advanced Internship Task 5/         # Ticket Intent Tagging
+├── Advance Internship Task 5/         # Ticket Intent Tagging
 └── README.md                           # This file
 
 ```
